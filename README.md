@@ -1,5 +1,6 @@
-### Github Automated Analysis
+## GitHub Automated Analysis
 
+### PROJECT DESCRIPTION
 This project is a Python-based tool which, when given a GitHub users URL, 
 returns the most technically complex and challenging repository from that users profile. 
 The tool will use GPT and LangChain to assess each repository individually before determining 
